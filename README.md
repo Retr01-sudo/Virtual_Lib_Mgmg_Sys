@@ -82,7 +82,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 For any questions or suggestions, please feel free to reach out:
 
 - **Email**: retrowrench.06@gmail.com
-- **GitHub**: [Your GitHub Profile]((https://github.com/Retr01-sudo))
+- **GitHub**: [Your GitHub Profile](https://github.com/Retr01-sudo)
 
 ---
 
