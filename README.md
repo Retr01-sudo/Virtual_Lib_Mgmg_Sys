@@ -86,4 +86,4 @@ For any questions or suggestions, please feel free to reach out:
 
 ---
 
-Thank you for exploring the Virtual Library Management System. Happy coding! 
+Thank you for exploring the Virtual Library Management System. 
