@@ -1,5 +1,3 @@
-Apologies for the earlier misunderstanding. Here's a simplified README tailored for your basic C++ console application that focuses on object-oriented programming (OOP) concepts without a graphical user interface (GUI):
-
 # Virtual Library Management System
 
 ## Overview
